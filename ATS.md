@@ -20,4 +20,3 @@ Un Sistema de Seguimiento de Solicitantes (ATS, por sus siglas en inglés) es un
 - **Integración de Tecnología**: La efectividad de un ATS puede verse limitada si no se integra adecuadamente con otras herramientas y sistemas utilizados por la empresa.
 - **Capacitación y Uso**: Los usuarios del sistema (reclutadores, gerentes de contratación) deben recibir formación adecuada para aprovechar al máximo las capacidades del ATS.
 
-En resumen, un ATS es una herramienta esencial en la gestión moderna de recursos humanos, brindando eficiencia y estructura al proceso de selección de personal. Sin embargo, su éxito depende de su correcta implementación, configuración y uso, siempre teniendo en cuenta la experiencia del candidato y la adaptabilidad a las necesidades específicas de la empresa.
